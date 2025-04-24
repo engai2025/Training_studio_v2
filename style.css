@@ -639,6 +639,19 @@
     margin-top: 5%;
        
    }
+   .content4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -15%;
+
+   }
+   .content4 button{
+    margin-bottom: 17%;
+    padding: 13px 20px;
+        
+   }
    .classes-container{
      width: 100%;
    }
@@ -676,9 +689,14 @@
   table{
      width: 100%;
      margin-left: -0.5%;
+     margin: 0 auto;
   }
   .container .content7 h2{
     font-size: 3rem;
+    margin-top: 11%;
+  }
+  .container .content7 img{
+    width: 10%;
   }
   .container .content7 p{
        font-size: 1.025rem;
@@ -687,11 +705,11 @@
   .content7 h5{
      font-size: 1.5rem;
   }
-  table th , td{
+  /* table th , td{
     font-size: 1rem;
-  }
+  } */
   table{
-    border: 1px solid wheat;
+     margin: 0 auto;
   }
   
   .team {
